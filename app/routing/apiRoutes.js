@@ -51,12 +51,11 @@ app.post("/api/friends", function(req, res) {
     for(var index = 0; index < eachDiffenceArr.length; index++){
             if(eachDiffenceArr[index] === min) {
                     bestMatch = friendData[index]
-                match(friendData, newFriend)
         }
     }
 
     console.log(bestMatch)
     res.json(bestMatch)
-    friends.push(bestMatch)
+    friendData.push(bestMatch)
 });
 };
