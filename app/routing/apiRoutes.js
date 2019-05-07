@@ -56,6 +56,6 @@ app.post("/api/friends", function(req, res) {
 
     console.log(bestMatch)
     res.json(bestMatch)
-    friendData.push(bestMatch)
+    friendData.push(newFriend)
 });
 };
