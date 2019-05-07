@@ -1,7 +1,7 @@
 var friendsArray = [
     { //1
-    "name": "Ahmed",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+    "name": "Donald Trump",
+    "photo": "https://static.politico.com/f5/f6/f072d02c4fda8fa81b39fbc9bc43/190502-trump-gty-773.jpg",    
     "scores": [
     "5",
     "1",
@@ -16,8 +16,8 @@ var friendsArray = [
     ]
     },
     {//2
-    "name": "Jacob Deming",
-    "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+    "name": "Audrey Hepburn",
+    "photo": "http://www.gstatic.com/tv/thumb/persons/767/767_v9_ba.jpg",
     "scores": [
     "4",
     "2",
@@ -32,8 +32,8 @@ var friendsArray = [
     ]
     },
     {//3
-    "name": "Jeremiah Scanlon",
-    "photo": "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+    "name": "Oprah Winfrey",
+    "photo": "https://blog.hdwallsource.com/wp-content/uploads/2017/04/happy-oprah-winfrey-wallpaper-61153-62961-hd-wallpapers-680x428.jpg",
     "scores": [
     "5",
     "2",
@@ -48,8 +48,8 @@ var friendsArray = [
     ]
     },
     {//4
-    "name": "Louis T. Delia",
-    "photo": "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+    "name": "Princess Diana",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Diana%2C_Princess_of_Wales_1997_%282%29.jpg/220px-Diana%2C_Princess_of_Wales_1997_%282%29.jpg",
     "scores": [
     "3",
     "3",
@@ -64,8 +64,8 @@ var friendsArray = [
     ]
     },
     {//5
-    "name": "Lou Ritter",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+    "name": "Elvis Presley",
+    "photo": "https://pixel.nymag.com/imgs/daily/vulture/2018/04/13/13-elvis-documentary.w700.h700.jpg",
     "scores": [
     "4",
     "3",
@@ -80,8 +80,8 @@ var friendsArray = [
     ]
     },
     {//6
-    "name": "Jordan Biason",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+    "name": "Madonna",
+    "photo": "https://media.allure.com/photos/5c43879f2be8686e611a34d3/3:4/w_2422,h_3230,c_limit/madonna%202018.jpg",
     "scores": [
     "4",
     "4",
@@ -96,8 +96,8 @@ var friendsArray = [
     ]
     },
     {//7
-    "name": "bla",
-    "photo": "bla bla",
+    "name": "Michael Jordan",
+    "photo": "https://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_auto/k0u5pkdfkrvzmlmxrbll/michael-jordan",
     "scores": [
     "3",
     "3",
@@ -112,8 +112,8 @@ var friendsArray = [
     ]
     },
     {//8
-    "name": "bla",
-    "photo": "bla bla",
+    "name": "Julius Caesar",
+    "photo": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE4MDAzNDEwNDQxMTExMDU0/julius-caesar-9192504-1-402.jpg",
     "scores": [
     "3",
     "3",
@@ -128,8 +128,8 @@ var friendsArray = [
     ]
     },
     {//9
-    "name": "hi",
-    "photo": "hi",
+    "name": "Grace Kelly",
+    "photo": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE4MDAzNDEwNTg1MjI0NzE4/grace-kelly-9362226-1-402.jpg",
     "scores": [
     "1",
     "1",
@@ -144,8 +144,8 @@ var friendsArray = [
     ]
     },
     {//10
-    "name": "bla",
-    "photo": "bla bla",
+    "name": "Al Gore",
+    "photo": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/08/09/10/al-gore.jpg",
     "scores": [
     "3",
     "3",
@@ -160,8 +160,8 @@ var friendsArray = [
     ]
     },
     {//11
-    "name": "Braden",
-    "photo": "./braden",
+    "name": "Scarlette Johansson",
+    "photo": "http://photos.vanityfair.com/2014/04/21/53556883158726f16b740128_scarlett-johansson-vanity-fair-ss05.jpg",
     "scores": [
     "1",
     "1",
@@ -176,8 +176,8 @@ var friendsArray = [
     ]
     },
     {//12
-    "name": "rachael ",
-    "photo": "www.google.com",
+    "name": "Adele",
+    "photo": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/11/18/11/adele-13.jpg",
     "scores": [
     "3",
     "3",
@@ -192,7 +192,7 @@ var friendsArray = [
     ]
     },
     {//13
-    "name": "rachael ",
+    "name": "Emma Watson",
     "photo": "www.google.com",
     "scores": [
     "3",
@@ -208,8 +208,8 @@ var friendsArray = [
     ]
     },
     {//14
-    "name": "rachael ",
-    "photo": "www.google.com",
+    "name": "Taylor Swift",
+    "photo": "https://ksassets.timeincuk.net/wp/uploads/sites/55/2017/10/Taylor-Swift-GettyImages-617547962-920x584.jpg",
     "scores": [
     "3",
     "3",
@@ -224,8 +224,8 @@ var friendsArray = [
     ]
     },
     {//15
-    "name": "Jerry",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Danny_DeVito_by_Gage_Skidmore.jpg/170px-Danny_DeVito_by_Gage_Skidmore.jpg",
+    "name": "Jerry Stiller",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMTQzNjA1NzgzNV5BMl5BanBnXkFtZTYwODY4ODQ0._V1_UY317_CR0,0,214,317_AL_.jpg",
     "scores": [
     "3",
     "3",
@@ -240,8 +240,8 @@ var friendsArray = [
     ]
     },
     {//16
-    "name": "Podge",
-    "photo": "image.jpg",
+    "name": "Robert Pershing Wadlow",
+    "photo": "https://i.pinimg.com/originals/34/26/df/3426df8f9e28810f2149cacfa189f0ea.jpg",
     "scores": [
     "3",
     "4",
@@ -256,8 +256,8 @@ var friendsArray = [
     ]
     },
     {//17
-    "name": "Abby",
-    "photo": "aol.com",
+    "name": "Chandra Bahadur Dangi",
+    "photo": "https://secure.i.telegraph.co.uk/multimedia/archive/01919/ex-shortest-man_1919300i.jpg",
     "scores": [
     "5",
     "3",
@@ -272,8 +272,8 @@ var friendsArray = [
     ]
     },
     {//18
-    "name": "Test",
-    "photo": "test",
+    "name": "Peggy Bundy",
+    "photo": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-married-with-children-katey-sagal.jpg",
     "scores": [
     "3",
     "2",
@@ -288,8 +288,8 @@ var friendsArray = [
     ]
     },
     {//19
-    "name": "Ron",
-    "photo": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjSkPf5h_vhAhVuGTQIHXGDDxUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.newburycomics.com%2Fproducts%2Fparks_and_recreation-funko_pop-_tv-_parks_and_recreation-ron_swanson&psig=AOvVaw0Ybjj94lHUXRyeGj7_cp32&ust=1556825185820160",
+    "name": "L. Ron Hubbard",
+    "photo": "http://tonyortega.org/wp-content/uploads/2017/11/LRH1952.jpg",
     "scores": [
     "3",
     "2",
@@ -304,8 +304,8 @@ var friendsArray = [
     ]
     },
     {//20
-    "name": "Jane Doe",
-    "photo": "google.com",
+    "name": "Jennifer Love Hewitt",
+    "photo": "https://cdnph.upi.com/svc/sv/upi/6641527253167/2018/1/55444d49c485d31a0165f076563c817b/Jennifer-Love-Hewitt-calls-marriage-kids-the-best-thing-shes-done.jpg",
     "scores": [
     "2",
     "2",
@@ -320,8 +320,8 @@ var friendsArray = [
     ]
     },
     {//21
-    "name": "Matthew Limbach",
-    "photo": "https://images.app.goo.gl/APzSY2Ebg1tzb67F8",
+    "name": "Mariah Carrey",
+    "photo": "https://www.billboard.com/files/media/Mariah-Carey-With-You-2018-billboard-1548.jpg",
     "scores": [
     "5",
     "2",
@@ -333,662 +333,6 @@ var friendsArray = [
     "3",
     "1",
     "2"
-    ]
-    },
-    {//22
-    "name": "Johny Kaikes",
-    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs7gcZWSwoHIElyWY940otMeVM2bPzPWyZG0dChiCId2EnxdGe",
-    "scores": [
-    "3",
-    "2",
-    "4",
-    "4",
-    "2",
-    "3",
-    "3",
-    "4",
-    "2",
-    "1"
-    ]
-    },
-    {//23
-    "name": "wfzqf",
-    "photo": "wra",
-    "scores": [
-    "2",
-    "3",
-    "3",
-    "2",
-    "5",
-    "3",
-    "2",
-    "4",
-    "1",
-    "3"
-    ]
-    },
-    {//24
-    "name": "wfzqf",
-    "photo": "wra",
-    "scores": [
-    "2",
-    "3",
-    "3",
-    "2",
-    "5",
-    "3",
-    "2",
-    "4",
-    "1",
-    "3"
-    ]
-    },
-    {//25
-    "name": "wfzqf",
-    "photo": "wra",
-    "scores": [
-    "2",
-    "3",
-    "3",
-    "2",
-    "5",
-    "3",
-    "2",
-    "4",
-    "1",
-    "3"
-    ]
-    },
-    {//26
-    "name": "wfzqf",
-    "photo": "wra",
-    "scores": [
-    "2",
-    "3",
-    "3",
-    "2",
-    "5",
-    "3",
-    "2",
-    "4",
-    "1",
-    "3"
-    ]
-    },
-    {//27
-    "name": "wfzqf",
-    "photo": "wra",
-    "scores": [
-    "2",
-    "3",
-    "3",
-    "2",
-    "5",
-    "4",
-    "5",
-    "4",
-    "4",
-    "5"
-    ]
-    },
-    {//28
-    "name": "etste4",
-    "photo": "wra",
-    "scores": [
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "4",
-    "4",
-    "5"
-    ]
-    },
-    {//29
-    "name": "etste4",
-    "photo": "wra",
-    "scores": [
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "4",
-    "4",
-    "5"
-    ]
-    },
-    {//30
-    "name": "akaal",
-    "photo": "dnms",
-    "scores": [
-    "5",
-    "2",
-    "3",
-    "3",
-    "3",
-    "2",
-    "3",
-    "3",
-    "2",
-    "3"
-    ]
-    },
-    {//31
-    "name": "Lucy",
-    "photo": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjGh_zTvfvhAhUTsZ4KHeU9AKQQjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fwww.womenshistory.org%252Feducation-resources%252Fbiographies%252Flucille-ball%26psig%3DAOvVaw1iOnCA3Noi8Qlph52yNsnP%26ust%3D1556839593641880&psig=AOvVaw1iOnCA3Noi8Qlph52yNsnP&ust=1556839593641880",
-    "scores": [
-    "3",
-    "2",
-    "4",
-    "4",
-    "1",
-    "3",
-    "4",
-    "4",
-    "3",
-    "3"
-    ]
-    },
-    {//32
-    "name": "Lucy",
-    "photo": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjGh_zTvfvhAhUTsZ4KHeU9AKQQjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fwww.womenshistory.org%252Feducation-resources%252Fbiographies%252Flucille-ball%26psig%3DAOvVaw1iOnCA3Noi8Qlph52yNsnP%26ust%3D1556839593641880&psig=AOvVaw1iOnCA3Noi8Qlph52yNsnP&ust=1556839593641880",
-    "scores": [
-    "3",
-    "2",
-    "4",
-    "4",
-    "1",
-    "3",
-    "4",
-    "4",
-    "3",
-    "3"
-    ]
-    },
-    {//33
-    "name": "Lucy",
-    "photo": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjGh_zTvfvhAhUTsZ4KHeU9AKQQjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fwww.womenshistory.org%252Feducation-resources%252Fbiographies%252Flucille-ball%26psig%3DAOvVaw1iOnCA3Noi8Qlph52yNsnP%26ust%3D1556839593641880&psig=AOvVaw1iOnCA3Noi8Qlph52yNsnP&ust=1556839593641880",
-    "scores": [
-    "3",
-    "2",
-    "4",
-    "4",
-    "1",
-    "3",
-    "4",
-    "4",
-    "3",
-    "3"
-    ]
-    },
-    {//34
-    "name": "Test",
-    "photo": "test",
-    "scores": [
-    "3",
-    "4",
-    "3",
-    "2",
-    "1",
-    "3",
-    "2",
-    "3",
-    "3",
-    "2"
-    ]
-    },
-    {//35
-    "name": "ffff",
-    "photo": "wwwww",
-    "scores": [
-    "3",
-    "2",
-    "1",
-    "3",
-    "3",
-    "4",
-    "1",
-    "1",
-    "1",
-    "1"
-    ]
-    },
-    {//36
-    "name": "ffff",
-    "photo": "wwwww",
-    "scores": [
-    "3",
-    "2",
-    "1",
-    "3",
-    "3",
-    "4",
-    "1",
-    "1",
-    "1",
-    "1"
-    ]
-    },
-    {//37
-    "name": "Marco",
-    "photo": "div/photo",
-    "scores": [
-    "3",
-    "3",
-    "3",
-    "3",
-    "3",
-    "3",
-    "4",
-    "3",
-    "3",
-    "3"
-    ]
-    },
-    {//38
-    "name": "me",
-    "photo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.fastweb.com%2Fuploads%2Farticle_photo%2Fphoto%2F2036370%2Fcrop635w_your-ultimate-prom-prep-list.jpg&imgrefurl=https%3A%2F%2Fwww.fastweb.com%2Fstudent-life%2Farticles%2Fyour-ultimate-prom-prep-list&docid=Fsxrbcz4KPiYoM&tbnid=9DD8S9Hkfw6nkM%3A&vet=10ahUKEwjdouncw_vhAhWBpp4KHdICCRYQMwhOKBAwEA..i&w=635&h=422&bih=625&biw=1366&q=fun%20things%20to%20do%20before%20prom&ved=0ahUKEwjdouncw_vhAhWBpp4KHdICCRYQMwhOKBAwEA&iact=mrc&uact=8",
-    "scores": [
-    "3",
-    "4",
-    "3",
-    "2",
-    "3",
-    "1",
-    "2",
-    "2",
-    "4",
-    "1"
-    ]
-    },
-    {//39
-    "name": "Marco",
-    "photo": "div/photo",
-    "scores": [
-    "3",
-    "3",
-    "3",
-    "3",
-    "3",
-    "3",
-    "4",
-    "3",
-    "3",
-    "3"
-    ]
-    },
-    {//40
-    "name": "me",
-    "photo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.fastweb.com%2Fuploads%2Farticle_photo%2Fphoto%2F2036370%2Fcrop635w_your-ultimate-prom-prep-list.jpg&imgrefurl=https%3A%2F%2Fwww.fastweb.com%2Fstudent-life%2Farticles%2Fyour-ultimate-prom-prep-list&docid=Fsxrbcz4KPiYoM&tbnid=9DD8S9Hkfw6nkM%3A&vet=10ahUKEwjdouncw_vhAhWBpp4KHdICCRYQMwhOKBAwEA..i&w=635&h=422&bih=625&biw=1366&q=fun%20things%20to%20do%20before%20prom&ved=0ahUKEwjdouncw_vhAhWBpp4KHdICCRYQMwhOKBAwEA&iact=mrc&uact=8",
-    "scores": [
-    "3",
-    "4",
-    "3",
-    "2",
-    "3",
-    "1",
-    "2",
-    "2",
-    "4",
-    "1"
-    ]
-    },
-    {//41
-    "name": "akaal",
-    "photo": "dnms",
-    "scores": [
-    "5",
-    "2",
-    "3",
-    "3",
-    "3",
-    "2",
-    "3",
-    "3",
-    "2",
-    "3"
-    ]
-    },
-    {//42
-    "name": "akaal",
-    "photo": "dnms",
-    "scores": [
-    "5",
-    "2",
-    "3",
-    "3",
-    "3",
-    "2",
-    "3",
-    "3",
-    "2",
-    "3"
-    ]
-    },
-    {//43
-    "name": "vxC",
-    "photo": "zxc",
-    "scores": [
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "2",
-    "5",
-    "2"
-    ]
-    },
-    {//44
-    "name": "Christian Petersen",
-    "photo": "https://avatars3.githubusercontent.com/u/44931480?s=460&v=4",
-    "scores": [
-    "3",
-    "4",
-    "3",
-    "1",
-    "2",
-    "3",
-    "4",
-    "2",
-    "4",
-    "3"
-    ]
-    },
-    {//45
-    "name": "Hunter",
-    "photo": "asdfsda",
-    "scores": [
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5"
-    ]
-    },
-    {
-    "name": "Hunter",
-    "photo": "asdfsda",
-    "scores": [
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5"
-    ]
-    },
-    {
-    "name": "Hunter",
-    "photo": "asdfsda",
-    "scores": [
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5"
-    ]
-    },
-    {
-    "name": "Hunter",
-    "photo": "asdfsda",
-    "scores": [
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5"
-    ]
-    },
-    {
-    "name": "Phil",
-    "photo": "no",
-    "scores": [
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5"
-    ]
-    },
-    {
-    "name": "Hunter",
-    "photo": "asdfsda",
-    "scores": [
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5",
-    "5"
-    ]
-    },
-    {
-    "name": "yo",
-    "photo": "asdf",
-    "scores": [
-    "4",
-    "2",
-    "5",
-    "1",
-    "3",
-    "2",
-    "2",
-    "1",
-    "3",
-    "2"
-    ]
-    },
-    {
-    "name": "aschaaf",
-    "photo": "sdfad",
-    "scores": [
-    "2",
-    "2",
-    "2",
-    "2",
-    "3",
-    "2",
-    "3",
-    "4",
-    "2",
-    "3"
-    ]
-    },
-    {
-    "name": "johnny test",
-    "photo": "google.com",
-    "scores": [
-    "2",
-    "3",
-    "4",
-    "2",
-    "3",
-    "4",
-    "2",
-    "3",
-    "1",
-    "1"
-    ]
-    },
-    {
-    "name": "fd",
-    "photo": "fd",
-    "scores": [
-    "2",
-    "2",
-    "2",
-    "3",
-    "2",
-    "4",
-    "2",
-    "2",
-    "2",
-    "3"
-    ]
-    },
-    {
-    "name": "dave.carlin86@gmail.com",
-    "photo": "https://images.pexels.com/photos/736716/pexels-photo-736716.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-    "scores": [
-    "5",
-    "2",
-    "2",
-    "1",
-    "2",
-    "1",
-    "4",
-    "2",
-    "3",
-    "3"
-    ]
-    },
-    {
-    "name": "dave.carlin86@gmail.com",
-    "photo": "https://images.pexels.com/photos/736716/pexels-photo-736716.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-    "scores": [
-    "5",
-    "2",
-    "2",
-    "1",
-    "2",
-    "1",
-    "4",
-    "2",
-    "3",
-    "3"
-    ]
-    },
-    {
-    "name": "dave.carlin86@gmail.com",
-    "photo": "https://images.pexels.com/photos/736716/pexels-photo-736716.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-    "scores": [
-    "5",
-    "2",
-    "2",
-    "1",
-    "2",
-    "1",
-    "4",
-    "2",
-    "3",
-    "3"
-    ]
-    },
-    {
-    "name": "aby",
-    "photo": "https://engineering.unl.edu/images/staff/Kayla_Person-small.jpg",
-    "scores": [
-    "2",
-    "3",
-    "1",
-    "2",
-    "3",
-    "4",
-    "5",
-    "4",
-    "3",
-    "2"
-    ]
-    },
-    {
-    "name": "Johnny the Monkey",
-    "photo": "http://www.boladafoca.com/2009/06/borat-e-johnny-monkey.html",
-    "scores": [
-    "5",
-    "3",
-    "4",
-    "5",
-    "1",
-    "1",
-    "3",
-    "2",
-    "3",
-    "5"
-    ]
-    },
-    {
-    "name": "JJ",
-    "photo": "img.img",
-    "scores": [
-    "3",
-    "2",
-    "3",
-    "1",
-    "5",
-    "4",
-    "1",
-    "5",
-    "2",
-    "4"
-    ]
-    },
-    {
-    "name": "JJ",
-    "photo": "img.img",
-    "scores": [
-    "3",
-    "2",
-    "3",
-    "1",
-    "5",
-    "4",
-    "1",
-    "5",
-    "2",
-    "4"
-    ]
-    },
-    {
-    "name": "JJ",
-    "photo": "img.img",
-    "scores": [
-    "1",
-    "1",
-    "3",
-    "1",
-    "5",
-    "4",
-    "1",
-    "1",
-    "1",
-    "1"
     ]
     }
     ]
