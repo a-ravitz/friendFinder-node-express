@@ -1,5 +1,5 @@
 body{
-    background-image: url('../couples.jpg');
+    background-image: url('../assets/couples.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -7,7 +7,7 @@ body{
 }
 
 .jumbotron {
-    background-color: firebrick;
+    background-color: rebeccapurple ;
     color: white;
     opacity: .75;
     margin-top: 20px;
@@ -29,4 +29,7 @@ body{
 
 .panel-title {
     color: firebrick;
+}
+a {
+    color: rebeccapurple
 }
